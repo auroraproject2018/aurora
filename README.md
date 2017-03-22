@@ -5,10 +5,9 @@
 * 安全协议使用TLS1.2 ,密钥交换使用椭圆曲线secp256k1,加密套件使用AES256-GCM-SHA384 
 * ios 安卓 平台 使用 椭圆曲线prime256v1
 
-客户端
-
 ```
-wget -N --no-check-certificate https://git.io/vD67J  -O ./SLSrv.sh && bash SLSrv.sh 
+windows 
+[client](https://git.io/vyhSY)
 
 ```
 
@@ -19,3 +18,12 @@ wget -N --no-check-certificate https://git.io/vD67J  -O ./SLSrv.sh && bash SLSrv
 * IOS
 * Android
 * OSX
+
+更新特性
+------------
+* 极光1.0.2
+* 设置功能加入对服务器IP是否超时的判断,帮助用户了解服务器的状态
+* 加入版本升级功能
+* 修正启动显示服务器选项
+* 修正托盘图标
+* 解决了部分bug
