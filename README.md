@@ -5,6 +5,12 @@
 * 安全协议使用TLS1.2 ,密钥交换使用椭圆曲线secp256k1,加密套件使用AES256-GCM-SHA384 
 * ios 安卓 平台 使用 椭圆曲线prime256v1
 
+| 公钥技术      | 密钥长度       |  曲线 |
+| ------------- |:-------------:| -----:|
+| RSA           | 2048          |       |
+| ECC           | 256           |   p256|
+| ECC           | 256           |   secp256k1|
+
 windows 
 
 [client https://git.io/vyhSY](https://git.io/vyhSY)
