@@ -6,7 +6,8 @@
 * ios 安卓 平台 使用 椭圆曲线prime256v1
 
 windows 
-[client](https://git.io/vyhSY)
+
+[client https://git.io/vyhSY](https://git.io/vyhSY)
 
 支持平台
 ------------
